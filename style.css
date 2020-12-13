@@ -6,15 +6,15 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #fde68a;
+  background-color: #A5D6A7;
   height: 10vh;
 }
 
 .footer,
 .header {
   height: 11rem;
-  background-color: #d97706;
-  border: 0.1rem solid black;
+  background-color: #43A047;
+  border: 0.1rem solid #4B2582;
   border-radius: 0.5rem;
 }
 
@@ -28,7 +28,7 @@ body {
   font-size: 5.5vw;
   text-align: center;
   margin: auto;
-  color: #fde68a;
+  color: #A5D6A7;
   margin-top: 2rem;
 }
 
@@ -52,7 +52,7 @@ textarea {
 }
 
 button {
-  border: 0.2rem solid black;
+  border: 0.2rem solid #4B2582;
   border-radius: 0.5rem;
   width: 12rem;
   height: 4rem;
@@ -66,7 +66,7 @@ button:hover {
 
 .footer {
   font-size: 1.5rem;
-  color: #fde68a;
+  color: #a5d6a7;
   padding: 0.4rem;
 }
 
@@ -91,8 +91,8 @@ button:hover {
 .img-hello {
   display: block;
   position: relative;
-  left: -20px;
-  top: -230px;
-  height: auto;
-  max-width: 40%;
+  left: 10px;
+  top: -280px;
+  height: 180%;
+  max-width: 20%;
 }
