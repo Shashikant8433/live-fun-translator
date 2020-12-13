@@ -6,15 +6,15 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #A5D6A7;
+  background-color: #a5d6a7;
   height: 10vh;
 }
 
 .footer,
 .header {
   height: 11rem;
-  background-color: #43A047;
-  border: 0.1rem solid #4B2582;
+  background-color: #43a047;
+  border: 0.1rem solid #4b2582;
   border-radius: 0.5rem;
 }
 
@@ -28,7 +28,7 @@ body {
   font-size: 5.5vw;
   text-align: center;
   margin: auto;
-  color: #A5D6A7;
+  color: #a5d6a7;
   margin-top: 2rem;
 }
 
@@ -52,7 +52,7 @@ textarea {
 }
 
 button {
-  border: 0.2rem solid #4B2582;
+  border: 0.2rem solid #4b2582;
   border-radius: 0.5rem;
   width: 12rem;
   height: 4rem;
@@ -60,7 +60,7 @@ button {
 }
 
 button:hover {
-  background-color: #eed84a;
+  background-color: #a5d6a7;
   font-weight: bolder;
 }
 
